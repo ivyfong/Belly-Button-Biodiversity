@@ -14,4 +14,5 @@ The information for an individual is displayed on the dashboard and is updated e
 2.	JavaScript - Plotly
 
 ## **Screenshot:**
-![screenshot.jpg](images/dashboard_screenshot.JPG)
+![screenshot1.jpg](images/dashboard_screenshot1.JPG)
+![screenshot2.jpg](images/dashboard_screenshot2.JPG)
