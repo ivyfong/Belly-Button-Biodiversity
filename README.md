@@ -1,4 +1,4 @@
-# Unit 15 – Plotly Homework, Belly Button Diversity
+# Belly Button Diversity
 
 The objective of this project is to use Plotly and JavaScript to build an interactive dashboard to present data stored in a JSON file. The dataset contains information on microbes, also called operational taxonomic units or OTUs, found inside individuals' belly buttons. 
 
